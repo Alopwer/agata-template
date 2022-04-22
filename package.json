@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "css-reset-and-normalize": "^2.1.0",
-    "fullpage.js": "^3.0.8",
+    "fullpage.js": "^4.0.5",
     "vanilla-lazyload": "^12.4.0"
   }
 }
